@@ -7,7 +7,7 @@ algorithm and convert them into engine commands
 
 **To Do**
 
-[ ]Use of hardware counter to get the speed input
+[checkbox:unchecked] Use of hardware counter to get the speed input
 
 -----------------------------------------------------------------------------
 **List of Modules:**
