@@ -6,8 +6,10 @@ The aim of this board is to receive position goals from the pathfinding
 algorithm and convert them into engine commands
 
 **To Do**
-[]Use of hardware counter to get the speed input
 
+[ ]Use of hardware counter to get the speed input
+
+-----------------------------------------------------------------------------
 **List of Modules:**
 - 
 
