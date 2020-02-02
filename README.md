@@ -1,2 +1,13 @@
-# Carte_Asser_2020
-Code de la carte asser des robot de la CDR 2020
+# :red_car: Carte Asser CDR 2020
+-----------------------------------------------------------------------------
+Code to compile in the Nucleo F446RE with platformIO IDE
+
+The aim of this board is to receive position goals from the pathfinding 
+algorithm and convert them into engine commands
+
+**To Do**
+[]Use of hardware counter to get the speed input
+
+**List of Modules:**
+- 
+
